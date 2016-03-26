@@ -1,0 +1,22 @@
+{
+  "name": "kusass",
+  "authors": [
+    "Kus Cámara"
+  ],
+  "description": "A small library of sass mixins and functions partially stolen from Bourbon",
+  "main": "kusass.scss",
+  "moduleType": [],
+  "keywords": [
+    "scss",
+    "sass",
+    "mixins",
+    "bem"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}

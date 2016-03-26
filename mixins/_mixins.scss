@@ -1,0 +1,14 @@
+// ------------------------------------------------------
+// BEM helpers
+// ------------------------------------------------------
+@mixin elem($block, $elem) {
+  #{$block}__#{$elem} {
+    @content;
+  }
+}
+
+@mixin mod($block, $modifier) {
+  #{$block}--#{$modifier} {
+    @content;
+  }
+}
