@@ -1,0 +1,6 @@
+// http://bourbon.io
+// Copyright 2011 thoughtbot, inc.
+// MIT License
+@function strip-unit($value) {
+  @return ($value / ($value * 0 + 1));
+}
