@@ -12,7 +12,7 @@ Install via Bower:
 bower install kcmr/kusass
 ```
 
-Or [download it]().
+Or [download it](https://github.com/kcmr/kusass/archive/master.zip).
 
 ## Usage
 
