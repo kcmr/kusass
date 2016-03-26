@@ -19,13 +19,13 @@ Or [download it]().
 Import into your main scss:
 
 ```scss
-@import "kusass";
+@import "kusass/kusass";
 ```
 
 Override `$em-base` var if you need it. The default `font-size` is 16px.
 
 ```scss
-@import "kusass";
+@import "kusass/kusass";
 @import "myvars";
 ```
 
